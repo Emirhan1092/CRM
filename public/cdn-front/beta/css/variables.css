@@ -1,0 +1,10 @@
+:root {
+    --main-banner: url(../uploads/identities/site-banner.svg);
+    --body-bg: #FBFBFB;
+    --main-menu-bg: #FBFBFB;
+    --main-menu-font-color: #000000;
+    --main-menu-font-highlight-color: #286EFB;
+    --main-banner-bg: #FBFBFB;
+    --main-banner-height: 320px;
+    --breadcrumb-image: url(../images/site-banner.svg);
+}
